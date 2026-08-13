@@ -3,7 +3,7 @@
 ![Juan Diego Giraldo](./banner.png)
 
 <p align="center">
-  <b>Systems & Computer Engineering Student · Backend Developer · Builder</b>
+  <b>Systems & Computer Engineering · Software Developer</b>
 </p>
 
 <p align="center">
