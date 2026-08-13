@@ -82,7 +82,7 @@ Machine Learning pipeline for identifying students at risk of dropping out.
 
 `Python` `Pandas` `Scikit-Learn` `PyCaret` `MLflow` `FastAPI`
 
-[View project →](https://github.com/EuronG/Hackaton)
+[View project →](https://github.com/aleuse/Hackathon)
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ A web application inspired by the **John Wick universe**, built to manage assass
 
 `React` `TypeScript` `Node.js` `Sequelize` `PostgreSQL` `Tailwind`
 
-[View project →](https://github.com/EuronG/Orden-Suprema)
+[View project →](https://github.com/AngelicaArce11/Orden-Suprema)
 
 </td>
 
